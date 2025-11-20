@@ -126,16 +126,7 @@
       height="32"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Gmail -->
-  <a href="mailto:YOUR_MAIL_HERE@gmail.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/gmail.svg"
-      alt="gmail"
-      height="32"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <!-- Telegram -->
   <a href="https://t.me/@Alixlg" target="_blank">
     <img
