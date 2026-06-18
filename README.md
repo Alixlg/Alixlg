@@ -10,59 +10,57 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 I’m a **Backend Developer** who enjoys building APIs and services with **.NET / C#**
-- 🧠 Always experimenting with **clean architecture, Onion architecture, DI, async, OOP, composition & advanced C# concepts**
-- 🛠 Playing with **Discord bots**, **REST APIs**, **Web backends**, and **performance tuning**
-- 🌐 I build Single-Page Applications with **Angular** and integrate them with **.NET** backends
-- 📚 Always leveling up my **IT knowledge**, from backend stuff to frontend, UI/UX and hardware
-- 🎮 Tech + Coding + PC Hardware enjoyer
+- 👨‍💻 I’m a **Backend Developer** building scalable APIs and services with **.NET / C#** using **Software Architecture (Clean & Onion and etc)**
+- 🧠 Interested in **Clean Code**, **SOLID**, **Design Patterns**, and advanced C# concepts
+- 📚 Always learning across **backend, frontend, UI/UX, and software architecture**
+- 🎮 Tech, coding, and PC hardware enthusiast
 
 ---
 
 ## 🧩 Tech Stack & Skills
 
-### 🖥️ Languages & Runtimes
+### 🖥️ Languages & Tools
 - **C# / .NET** – Backend, APIs, services, and OOP  
 - **TypeScript / JavaScript** – Angular, frontend logic  
 - **HTML & CSS** – Responsive & clean layouts  
+- **Git & GitHub** – Version control & collaboration  
+- **Figma** – UI/UX design & prototyping  
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,html,css" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma" alt="tools" />
 </p>
 
 ### 🧱 Backend & Web
-- **.NET / ASP.NET Core** – REST APIs, Minimal APIs, Clean Architecture  
+- **.NET / ASP.NET Core** – REST APIs, Minimal APIs, Clean Architecture, Onion Architecture, etc
 - **Angular** – Frontend frameworks, SPA development, components & services  
 - **Tailwind CSS** – Modern UI styling  
-- **VS Code & Visual Studio** – IDEs and debugging tools  
+- **VS Code & Visual Studio & Cursor** – IDEs and debugging tools  
 - **Postman** – API testing  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,angular,tailwind,vscode,visualstudio,postman" alt="backend web" />
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,tailwind,vscode,visualstudio" alt="backend web" />
+  <img src="https://cursor.com/assets/images/logo.svg" alt="Cursor" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="backend web" />
 </p>
 
 ### 🗄️ Databases & ORMs
 - **SQL Server** – Relational DB, stored procedures, queries  
 - **PostgreSQL & SQLite** – Lightweight or prototyping DBs  
+- **MongoDB** – NoSQL document database  
 - **Entity Framework Core** – ORM for database interaction  
 
 <p>
-  <!-- Replaced broken SQL Server icon with a reliable devicon SVG + other DB icons -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="48" style="vertical-align:middle; margin-right:8px;" />
-  <img src="https://skillicons.dev/icons?i=sqlite,postgres" alt="sqlite postgres" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="48" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb" alt="databases" />
 </p>
 
-### 🧰 Tools & Platforms
-- **Git & GitHub** – Version control & collaboration  
-- **Figma** – UI/UX design & prototyping  
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma" alt="tools" />
-</p>
-
-### ⚙️ Other Stuff I Like
-- Clean code, **SOLID principles**, **Dependency Injection / Inversion**, **composition**, layered architecture  
-- Logging, debugging, optimizing, and breaking things until they finally work 😅  
+### ⚙️ Engineering Practices
+- **Software Architecture**, **SOLID Principles**, and scalable system design
+- Application performance optimization and scalability
+- Debugging, troubleshooting, and problem solving
+- Logging, monitoring, and observability
+- Writing clean, readable, and testable code
 
 ---
 
@@ -71,31 +69,15 @@
 - 📫 All of my public projects are available on my GitHub:  
   👉 [**My GitHub Profile**](https://github.com/Alixlg)
 
-- 🧪 Stuff I like to build:
-  - **Discord bots**  
-  - **REST APIs** with .NET  
-  - **Angular dashboards & management panels**  
-  - Practice projects for **OOP**, **patterns**, **composition**, and **clean architecture**  
-
 ---
 
 ## 💬 Ask Me About
 
-- 🟣 **.NET / .NET Core / ASP.NET**  
 - 💻 **C#** (from basics to advanced OOP & patterns & new C# versions & asynchronous etc.)  
-- 🧩 **API design**, controllers vs minimal APIs, AAA Security, HTTP methods 
-- 🌐 **Angular** (components, services, guards, interceptors, routes, reactive forms etc.)  
-- 🗄️ **SQL Server / EF Core** – queries, relations, migrations, performances, repository etc.  
-- 🧠 General backend architecture & best practices  
-
----
-
-## 🌱 What I’m Currently Doing
-
-- 🔭 Improving my skills in **.NET backend & API development**  
-- 🧪 Building more **Angular SPA projects** and integrating them with .NET APIs  
-- 📚 Learning more about **software architecture**, **clean code**, and **composition**  
-- ⚙️ Tweaking, testing, and sometimes roasting my own code 😅  
+- 🧩 **API Design** – REST, Minimal APIs, HTTP, Security concepts
+- 🌐 **Angular** – Components, Services, Guards, Interceptors, Reactive Forms
+- 🗄️ **SQL Server / EF Core** – Queries, Relations, Migrations, Performance
+- 🧠 **Software Architecture** – Clean Architecture, Onion Architecture, Best Practices
 
 ---
 
@@ -146,5 +128,5 @@
 </p>
 
 <p align="center">
-  <i>"Code, break, fix, repeat."</i>
+  <i>"Build, debug, improve, repeat."</i>
 </p>
