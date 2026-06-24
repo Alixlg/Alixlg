@@ -27,8 +27,7 @@
 - **Figma** – UI/UX design & prototyping  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,html,css" alt="languages" />
-  <img src="https://skillicons.dev/icons?i=git,github,figma" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,html,css,git,github,figma" alt="languages" />
 </p>
 
 ### 🧱 Backend & Web
