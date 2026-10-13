@@ -109,7 +109,7 @@
   </a>
   &nbsp;&nbsp;
   <!-- Telegram -->
-  <a href="https://t.me/@Alixlg" target="_blank">
+  <a href="https://t.me/Alixlg" target="_blank">
     <img
       src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Telegram.png"
       alt="telegram"
